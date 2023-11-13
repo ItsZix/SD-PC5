@@ -14,3 +14,11 @@ o	El ingresa al campo
 o	Se debe registrar la hora de ingreso y cotejar si el usuario está retrasado pierde la reserva y pasaría a condición de cancha libre. 
 Todo debe visualizarse en una interfaz que inicie directamente al momento de encender la raspberry sin necesidad de mostrar SO (solo la interfaz) 
 # Este repositorio es una primera propuesta y contiene la lógica vista en clase 
+# Estudiantes: 
+# /Bernal Zelada, Moisés Gabriel 
+# /Casaverde Gutiérrez, Florián Jamil 
+# /De La Cruz Querevalu, Álvaro Moisés 
+# /Estrada Macalupú, Erick Euclides 
+# /Olazábal Cabrejos, Ubaldo 
+# /Silva Ramos, Anghelo Omar 
+# /Torres Zurita, Cristian Abel 
