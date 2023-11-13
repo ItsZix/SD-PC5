@@ -1,6 +1,6 @@
 # SD-PC5
 SOLUCIÓN POLIDEPORTIVO
-El polideportivo consiste en X canchas de futbol y Y canchas de básquet. Se puede hacer resera de las canchas solo si el usuario está en la base de datos. Se le pide a un ingeniero IME que desarrolle una interfaz para acceder al polideportivo basado en raspberry.
+El polideportivo consiste en X canchas de futbol y Y canchas de básquet. Se puede hacer reserva de las canchas solo si el usuario está en la base de datos. Se le pide a un ingeniero IME que desarrolle una interfaz para acceder al polideportivo basado en raspberry.
 Requisitos:
 •	Función ingreso a la cancha
 o	La entrada está cerrada
