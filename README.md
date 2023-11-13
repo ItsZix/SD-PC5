@@ -15,10 +15,10 @@ o	Se debe registrar la hora de ingreso y cotejar si el usuario está retrasado p
 Todo debe visualizarse en una interfaz que inicie directamente al momento de encender la raspberry sin necesidad de mostrar SO (solo la interfaz) 
 # Este repositorio es una primera propuesta y contiene la lógica vista en clase 
 # Estudiantes: 
-# /Bernal Zelada, Moisés Gabriel 
-# /Casaverde Gutiérrez, Florián Jamil 
-# /De La Cruz Querevalu, Álvaro Moisés 
-# /Estrada Macalupú, Erick Euclides 
-# /Olazábal Cabrejos, Ubaldo 
-# /Silva Ramos, Anghelo Omar 
-# /Torres Zurita, Cristian Abel 
+# Bernal Zelada, Moisés Gabriel 
+# Casaverde Gutiérrez, Florián Jamil 
+# De La Cruz Querevalu, Álvaro Moisés 
+# Estrada Macalupú, Erick Euclides 
+# Olazábal Cabrejos, Ubaldo 
+# Silva Ramos, Anghelo Omar 
+# Torres Zurita, Cristian Abel 
